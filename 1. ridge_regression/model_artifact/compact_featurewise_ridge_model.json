@@ -2,51 +2,123 @@
   "schema": "compact_featurewise_ridge_regression_v1",
   "model_family": "compact_featurewise_ridge_regression",
   "score_key": "relative_quality_score",
-  "generated_at": "2026-07-12T13:15:53.084979Z",
+  "generated_at": "2026-07-21T19:50:45.234603Z",
   "lambda_ridge": 0.1,
   "metrics": {
     "lambda_selected": 0.1,
     "selected_lambda": 0.1,
     "train_fit_metrics": {
-      "mse": 0.00261099533074423,
-      "rmse": 0.05109789947487303,
-      "mae": 0.03157451250794493,
-      "r_squared": 0.7279431890770457,
+      "mse": 0.0026109881273641876,
+      "rmse": 0.05109782898875634,
+      "mae": 0.03157433691955541,
+      "r_squared": 0.7279439396446852,
       "samples": 653,
-      "lambda_search_mse": 0.00261099533074423
+      "lambda_search_mse": 0.0026109881273641876
     },
-    "theta_norm": 0.3737086592877393,
+    "theta_norm": 0.37377170968447704,
     "lambda_search": [
       {
         "lambda_ridge": 0.1,
-        "lambda_search_mse": 0.00261099533074423
+        "lambda_search_mse": 0.0026109881273641876
       },
       {
         "lambda_ridge": 0.5,
-        "lambda_search_mse": 0.002640115769737275
+        "lambda_search_mse": 0.0026400794385777453
       },
       {
         "lambda_ridge": 1.0,
-        "lambda_search_mse": 0.002670613556641484
+        "lambda_search_mse": 0.002670593488638369
       },
       {
         "lambda_ridge": 2.0,
-        "lambda_search_mse": 0.002707159940693178
+        "lambda_search_mse": 0.0027071988003639384
       },
       {
         "lambda_ridge": 5.0,
-        "lambda_search_mse": 0.002751081447621042
+        "lambda_search_mse": 0.0027511834587719613
       },
       {
         "lambda_ridge": 10.0,
-        "lambda_search_mse": 0.0027782481764701073
+        "lambda_search_mse": 0.002778257011620242
       },
       {
         "lambda_ridge": 20.0,
-        "lambda_search_mse": 0.0028044808563324887
+        "lambda_search_mse": 0.0028040931195900463
       }
     ],
-    "candidate_points": 30
+    "candidate_points": 30,
+    "regularize_intercept": false,
+    "regularization": "identity_except_intercept",
+    "training_log": [
+      {
+        "level": "info",
+        "message": "Loaded 653 rows from Training Data."
+      },
+      {
+        "level": "info",
+        "message": "Using 653 non-baseline rows after phase/run filters."
+      },
+      {
+        "level": "info",
+        "message": "Prepared model artifact folder: model_compact-ridge_20260721_195042_ridge_without_intercept_regularization."
+      },
+      {
+        "level": "info",
+        "message": "Validated one model evaluation step: 5000."
+      },
+      {
+        "level": "info",
+        "message": "Loaded multiplier bounds from source_pipeline.fixed_log_space_bounds_snapshot."
+      },
+      {
+        "level": "info",
+        "message": "Prepared 653 compact Ridge score rows."
+      },
+      {
+        "level": "info",
+        "message": "Searching 7 compact Ridge lambda candidates with 30 multiplier candidate points."
+      },
+      {
+        "level": "info",
+        "message": "Compact Ridge comparison: intercept is excluded from Ridge regularization."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 0.1: lambda-search MSE 0.002611."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 0.5: lambda-search MSE 0.002640."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 1: lambda-search MSE 0.002671."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 2: lambda-search MSE 0.002707."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 5: lambda-search MSE 0.002751."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 10: lambda-search MSE 0.002778."
+      },
+      {
+        "level": "info",
+        "message": "Lambda 20: lambda-search MSE 0.002804."
+      },
+      {
+        "level": "success",
+        "message": "Selected lambda 0.1 with lowest lambda-search MSE."
+      },
+      {
+        "level": "info",
+        "message": "Saved compact Ridge model artifact and metadata."
+      }
+    ]
   },
   "model": {
     "version": 1,
@@ -114,9 +186,11 @@
     },
     "action_space": "joint_log_multiplier",
     "design": "x_plus_three_actions_plus_action2_plus_xa",
+    "regularize_intercept": false,
+    "regularization": "identity_except_intercept",
     "A": [
       [
-        653.1,
+        653.0,
         -1.580957587066223e-13,
         -4.914957330015568e-13,
         -3.108624468950438e-14,

@@ -2,16 +2,16 @@
 
 Final report model: `A1_Final_ridge_used_in_report`
 
-Model ID: `model_compact-ridge_20260712_131550_final_offline_data_june_27-training-data-compact-ridge`
+Model ID: `model_compact-ridge_20260721_195042_ridge_without_intercept_regularization`
 
 Contents:
 
 - `model_artifact/`: copied trained model artifact folder.
 - `final_ridge_test_metrics_multipliers_descriptors.csv`: 12-project test table with runtime, Gaussian counts, PSNR, SSIM, LPIPS, selected multipliers, and raw descriptor values.
-- `project_index_table.csv`: stable project index used by the report charts and CSV rows.
+- `project_index_table.csv`: stable project index used by report charts and CSV rows.
 - `test_pipeline_runs.json`: the 12 matching test-pipeline run records used for this model.
-- `comparison_models/`: comparison Ridge model outputs. Each comparison folder includes its own 12-project CSV with runtime, Gaussian counts, final metrics, selected multipliers, and descriptor values.
-- `source_data/`: copied pipeline and training-data JSON files used as report references.
+- `comparison_models/`: rebuilt comparison outputs from actual pipeline runs. Included comparisons: A2_Final_ridge_used_in_report_trained_with_hard_capped_data, A3_Ridge_additional_run_with_same_multipliers.
+- `source_data/`: copied source pipeline/model/training reference files. The test pipeline snapshot may contain historical runs; the final report rows are the 12 rows in the final CSV.
 - `best_lowest_5000_previews/`: copied preview images where available.
 
 Notes:
@@ -20,5 +20,4 @@ Notes:
 - PSNR, SSIM, and LPIPS values are raw GS evaluation metrics, not normalized values.
 - Descriptor values are raw descriptor values before model standardization.
 - LPIPS improvement is calculated as baseline LPIPS minus model LPIPS, so positive means better.
-- Hard-cap rows are kept in the table to preserve the 12-project index. Their metric improvement columns are set to `0.0`, and the hard-cap metadata columns identify the cap, step, and Gaussian count.
-- The comparison CSVs include a `model_name` column with the report names `A2` and `A3`. Original `model_id` and run ID values are kept unchanged for traceability.
+- Hard-cap rows are kept in the tables to preserve the 12-project index. Their metric improvement columns are set to `0.0`, and the hard-cap metadata columns identify the cap, step, and Gaussian count.

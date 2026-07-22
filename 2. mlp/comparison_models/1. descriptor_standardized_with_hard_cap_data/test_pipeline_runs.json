@@ -1,470 +1,458 @@
 [
-    {
-        "project_name":  "12-Maisonneuve Market",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "12_maisonneuve_market_phase2_run1_data_20260720_210229",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T21:10:56.668877Z",
-        "timestamp":  "2026-07-20T21:10:56.668877Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+  {
+    "project_name": "12-Maisonneuve Market",
+    "phase": 2,
+    "run": 1,
+    "run_id": "12_maisonneuve_market_phase2_run1_data_20260720_210229",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "4-Thomas-More-Church",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "4_thomas_more_church_phase2_run1_data_20260720_212858",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T21:38:09.617221Z",
-        "timestamp":  "2026-07-20T21:38:09.617221Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-20T21:10:56.668877Z",
+    "timestamp": "2026-07-20T21:10:56.668877Z"
+  },
+  {
+    "project_name": "4-Thomas-More-Church",
+    "phase": 2,
+    "run": 1,
+    "run_id": "4_thomas_more_church_phase2_run1_data_20260720_212858",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Brasov",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "brasov_phase2_run1_data_20260720_221453",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T22:33:52.450652Z",
-        "timestamp":  "2026-07-20T22:33:52.450652Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-20T21:38:09.617221Z",
+    "timestamp": "2026-07-20T21:38:09.617221Z"
+  },
+  {
+    "project_name": "Brasov",
+    "phase": 2,
+    "run": 1,
+    "run_id": "brasov_phase2_run1_data_20260720_221453",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Changu",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "changu_phase2_run1_data_20260720_225802",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T23:12:14.661796Z",
-        "timestamp":  "2026-07-20T23:12:14.661796Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-20T22:33:52.450652Z",
+    "timestamp": "2026-07-20T22:33:52.450652Z"
+  },
+  {
+    "project_name": "Changu",
+    "phase": 2,
+    "run": 1,
+    "run_id": "changu_phase2_run1_data_20260720_225802",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Chatteau_circle_60_and_45_degrees",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "chatteau_circle_60_and_45_degrees_phase2_run1_data_20260720_233233",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T23:38:38.731315Z",
-        "timestamp":  "2026-07-20T23:38:38.731315Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-20T23:12:14.661796Z",
+    "timestamp": "2026-07-20T23:12:14.661796Z"
+  },
+  {
+    "project_name": "Chatteau_circle_60_and_45_degrees",
+    "phase": 2,
+    "run": 1,
+    "run_id": "chatteau_circle_60_and_45_degrees_phase2_run1_data_20260720_233233",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "DJI_202402171501_006_KTM20-oblique",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "dji_202402171501_006_ktm20_oblique_phase2_run1_data_20260721_000843",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T00:20:11.586081Z",
-        "timestamp":  "2026-07-21T00:20:11.586081Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-20T23:38:38.731315Z",
+    "timestamp": "2026-07-20T23:38:38.731315Z"
+  },
+  {
+    "project_name": "DJI_202402171501_006_KTM20-oblique",
+    "phase": 2,
+    "run": 1,
+    "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_data_20260721_000843",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_data_20260721_003517",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T00:40:32.260399Z",
-        "timestamp":  "2026-07-21T00:40:32.260399Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-21T00:20:11.586081Z",
+    "timestamp": "2026-07-21T00:20:11.586081Z"
+  },
+  {
+    "project_name": "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
+    "phase": 2,
+    "run": 1,
+    "run_id": "kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_data_20260721_003517",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Pix4d_forensic",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "pix4d_forensic_phase2_run1_data_20260721_005758",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T01:06:00.778934Z",
-        "timestamp":  "2026-07-21T01:06:00.778934Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-21T00:40:32.260399Z",
+    "timestamp": "2026-07-21T00:40:32.260399Z"
+  },
+  {
+    "project_name": "Pix4d_forensic",
+    "phase": 2,
+    "run": 1,
+    "run_id": "pix4d_forensic_phase2_run1_data_20260721_005758",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Telc_sv_Jakub_March_18",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "telc_sv_jakub_march_18_phase2_run1_data_20260721_012525",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T01:34:52.219374Z",
-        "timestamp":  "2026-07-21T01:34:52.219374Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-21T01:06:00.778934Z",
+    "timestamp": "2026-07-21T01:06:00.778934Z"
+  },
+  {
+    "project_name": "Telc_sv_Jakub_March_18",
+    "phase": 2,
+    "run": 1,
+    "run_id": "telc_sv_jakub_march_18_phase2_run1_data_20260721_012525",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Tiburon_Angel_Islands_State_Park_Split_group_3",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "tiburon_angel_islands_state_park_split_group_3_phase2_run1_data_20260721_015502",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T02:04:41.230013Z",
-        "timestamp":  "2026-07-21T02:04:41.230013Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-21T01:34:52.219374Z",
+    "timestamp": "2026-07-21T01:34:52.219374Z"
+  },
+  {
+    "project_name": "Tiburon_Angel_Islands_State_Park_Split_group_3",
+    "phase": 2,
+    "run": 1,
+    "run_id": "tiburon_angel_islands_state_park_split_group_3_phase2_run1_data_20260721_015502",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "morice",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "morice_phase2_run1_data_20260721_022725",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T02:35:17.641570Z",
-        "timestamp":  "2026-07-21T02:35:17.641570Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+    "completed_at": "2026-07-21T02:04:41.230013Z",
+    "timestamp": "2026-07-21T02:04:41.230013Z"
+  },
+  {
+    "project_name": "morice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "morice_phase2_run1_data_20260721_022725",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "uncovice",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "uncovice_phase2_run1_data_20260721_025325",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-21T03:02:16.162615Z",
-        "timestamp":  "2026-07-21T03:02:16.162615Z",
-        "test_model_name":  "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
-    }
+    "completed_at": "2026-07-21T02:35:17.641570Z",
+    "timestamp": "2026-07-21T02:35:17.641570Z"
+  },
+  {
+    "project_name": "uncovice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "uncovice_phase2_run1_data_20260721_025325",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-mlp_20260720_203905_final_mlp_descriptor_standardized_with_hard_capped_data",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T03:02:16.162615Z",
+    "timestamp": "2026-07-21T03:02:16.162615Z"
+  }
 ]

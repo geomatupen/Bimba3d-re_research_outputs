@@ -1,38 +1,17 @@
-# A3_Ridge_additional_run_with_same_multipliers 5000-Step Preview Images
+# Highest and Lowest Performing Preview Snapshots
 
-Each selected project folder contains the baseline and model `preview_005000.png` images copied from the 5000-step Gaussian Splatting runs. A run can contain many saved previews and validation renders; this folder keeps one representative 5000-step preview pair so the visual comparison stays compact.
+Model: `A3_Ridge_additional_run_with_same_multipliers`
+Model ID: `model_compact-ridge_20260720_094510_model-to-delete`
 
-Rows with missing final PSNR, SSIM, or LPIPS values, such as hard-cap-stopped runs, are skipped when choosing best and lowest projects.
+Rankings use completed runs only. Hard-cap rows are kept in the CSV for project-index consistency but are not used as completed visual examples.
 
-The best/lowest project selection is based on aggregate run metrics for the whole validation set, not on a score for this single preview image.
-
-Overall ranking uses the combined rank across PSNR improvement, SSIM improvement, and LPIPS improvement. LPIPS improvement is `baseline LPIPS - model LPIPS`, so higher is better.
-
-## Overall Best and Lowest Performing
-
-| Type | Folder | Project | Delta PSNR | Delta SSIM | Delta LPIPS |
-| --- | --- | --- | ---: | ---: | ---: |
-| Overall best | `overall_01_best_pix4d_forensic` | Pix4d_forensic | `+1.173582` | `+0.149138` | `+0.233763` |
-| Overall best | `overall_02_best_chatteau_circle_60_and_45_degrees` | Chatteau_circle_60_and_45_degrees | `+0.278358` | `+0.085523` | `+0.197089` |
-| Overall lowest | `overall_01_lowest_4_thomas_more_church` | 4-Thomas-More-Church | `-0.862595` | `-0.010378` | `-0.014901` |
-| Overall lowest | `overall_02_lowest_12_maisonneuve_market` | 12-Maisonneuve Market | `+0.149771` | `+0.004471` | `+0.009920` |
-
-## Metric-Specific Best and Lowest Performing
-
-| Metric pick | Folder | Project | Selected delta |
-| --- | --- | --- | ---: |
-| psnr best | `metric_specific_best_lowest/psnr_best_pix4d_forensic` | Pix4d_forensic | `+1.173582` |
-| psnr lowest | `metric_specific_best_lowest/psnr_lowest_4_thomas_more_church` | 4-Thomas-More-Church | `-0.862595` |
-| ssim best | `metric_specific_best_lowest/ssim_best_pix4d_forensic` | Pix4d_forensic | `+0.149138` |
-| ssim lowest | `metric_specific_best_lowest/ssim_lowest_4_thomas_more_church` | 4-Thomas-More-Church | `-0.010378` |
-| lpips best | `metric_specific_best_lowest/lpips_best_pix4d_forensic` | Pix4d_forensic | `+0.233763` |
-| lpips lowest | `metric_specific_best_lowest/lpips_lowest_4_thomas_more_church` | 4-Thomas-More-Church | `-0.014901` |
-
-Inside each folder:
-
-- `baseline_preview_005000.png`
-- `model_preview_005000.png`
-- `metadata.json`
-- `selected_5000_render_pairs/` for overall best/lowest folders
-
-Each overall best/lowest project folder also contains `selected_5000_render_pairs/` with three paired baseline/model validation renders from step 5000. These are for visual inspection only; the stored metric JSON is aggregate for the full validation set, not per rendered view.
+- overall best: project 8 `Pix4d_forensic`; PSNR delta 1.17358, SSIM delta 0.149138, LPIPS improvement 0.233763.
+- overall best: project 5 `Chatteau_circle_60_and_45_degrees`; PSNR delta 0.278358, SSIM delta 0.0855226, LPIPS improvement 0.197089.
+- overall lowest: project 2 `4-Thomas-More-Church`; PSNR delta -0.862595, SSIM delta -0.0103776, LPIPS improvement -0.0149012.
+- overall lowest: project 1 `12-Maisonneuve Market`; PSNR delta 0.149771, SSIM delta 0.00447148, LPIPS improvement 0.00992012.
+- psnr_delta best: project 8 `Pix4d_forensic`; PSNR delta 1.17358, SSIM delta 0.149138, LPIPS improvement 0.233763.
+- psnr_delta lowest: project 2 `4-Thomas-More-Church`; PSNR delta -0.862595, SSIM delta -0.0103776, LPIPS improvement -0.0149012.
+- ssim_delta best: project 8 `Pix4d_forensic`; PSNR delta 1.17358, SSIM delta 0.149138, LPIPS improvement 0.233763.
+- ssim_delta lowest: project 2 `4-Thomas-More-Church`; PSNR delta -0.862595, SSIM delta -0.0103776, LPIPS improvement -0.0149012.
+- lpips_improvement best: project 8 `Pix4d_forensic`; PSNR delta 1.17358, SSIM delta 0.149138, LPIPS improvement 0.233763.
+- lpips_improvement lowest: project 2 `4-Thomas-More-Church`; PSNR delta -0.862595, SSIM delta -0.0103776, LPIPS improvement -0.0149012.

@@ -1,470 +1,458 @@
 [
-    {
-        "project_name":  "12-Maisonneuve Market",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T09:54:37.913116Z",
-        "timestamp":  "2026-07-20T09:54:37.913116Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+  {
+    "project_name": "12-Maisonneuve Market",
+    "phase": 2,
+    "run": 1,
+    "run_id": "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "4-Thomas-More-Church",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "4_thomas_more_church_phase2_run1_model-to-del_20260720_095841",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T10:05:15.920308Z",
-        "timestamp":  "2026-07-20T10:05:15.920308Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T09:54:37.913116Z",
+    "timestamp": "2026-07-20T09:54:37.913116Z"
+  },
+  {
+    "project_name": "4-Thomas-More-Church",
+    "phase": 2,
+    "run": 1,
+    "run_id": "4_thomas_more_church_phase2_run1_model-to-del_20260720_095841",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Brasov",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "brasov_phase2_run1_model-to-del_20260720_100923",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T10:27:05.306654Z",
-        "timestamp":  "2026-07-20T10:27:05.306654Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T10:05:15.920308Z",
+    "timestamp": "2026-07-20T10:05:15.920308Z"
+  },
+  {
+    "project_name": "Brasov",
+    "phase": 2,
+    "run": 1,
+    "run_id": "brasov_phase2_run1_model-to-del_20260720_100923",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Chatteau_circle_60_and_45_degrees",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "chatteau_circle_60_and_45_degrees_phase2_run1_model-to-del_20260720_104858",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T10:59:28.174635Z",
-        "timestamp":  "2026-07-20T10:59:28.174635Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T10:27:05.306654Z",
+    "timestamp": "2026-07-20T10:27:05.306654Z"
+  },
+  {
+    "project_name": "Chatteau_circle_60_and_45_degrees",
+    "phase": 2,
+    "run": 1,
+    "run_id": "chatteau_circle_60_and_45_degrees_phase2_run1_model-to-del_20260720_104858",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_model-to-del_20260720_112748",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T11:33:57.424386Z",
-        "timestamp":  "2026-07-20T11:33:57.424386Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T10:59:28.174635Z",
+    "timestamp": "2026-07-20T10:59:28.174635Z"
+  },
+  {
+    "project_name": "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
+    "phase": 2,
+    "run": 1,
+    "run_id": "kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_model-to-del_20260720_112748",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Pix4d_forensic",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "pix4d_forensic_phase2_run1_model-to-del_20260720_113802",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T11:47:52.238563Z",
-        "timestamp":  "2026-07-20T11:47:52.238563Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T11:33:57.424386Z",
+    "timestamp": "2026-07-20T11:33:57.424386Z"
+  },
+  {
+    "project_name": "Pix4d_forensic",
+    "phase": 2,
+    "run": 1,
+    "run_id": "pix4d_forensic_phase2_run1_model-to-del_20260720_113802",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Telc_sv_Jakub_March_18",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "telc_sv_jakub_march_18_phase2_run1_model-to-del_20260720_115159",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T12:02:23.252041Z",
-        "timestamp":  "2026-07-20T12:02:23.252041Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T11:47:52.238563Z",
+    "timestamp": "2026-07-20T11:47:52.238563Z"
+  },
+  {
+    "project_name": "Telc_sv_Jakub_March_18",
+    "phase": 2,
+    "run": 1,
+    "run_id": "telc_sv_jakub_march_18_phase2_run1_model-to-del_20260720_115159",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Tiburon_Angel_Islands_State_Park_Split_group_3",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "tiburon_angel_islands_state_park_split_group_3_phase2_run1_model-to-del_20260720_120629",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T12:19:01.027024Z",
-        "timestamp":  "2026-07-20T12:19:01.027024Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T12:02:23.252041Z",
+    "timestamp": "2026-07-20T12:02:23.252041Z"
+  },
+  {
+    "project_name": "Tiburon_Angel_Islands_State_Park_Split_group_3",
+    "phase": 2,
+    "run": 1,
+    "run_id": "tiburon_angel_islands_state_park_split_group_3_phase2_run1_model-to-del_20260720_120629",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "morice",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "morice_phase2_run1_model-to-del_20260720_122308",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T12:37:29.366627Z",
-        "timestamp":  "2026-07-20T12:37:29.366627Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T12:19:01.027024Z",
+    "timestamp": "2026-07-20T12:19:01.027024Z"
+  },
+  {
+    "project_name": "morice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "morice_phase2_run1_model-to-del_20260720_122308",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "uncovice",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "uncovice_phase2_run1_model-to-del_20260720_124135",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T12:51:21.288662Z",
-        "timestamp":  "2026-07-20T12:51:21.288662Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T12:37:29.366627Z",
+    "timestamp": "2026-07-20T12:37:29.366627Z"
+  },
+  {
+    "project_name": "uncovice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "uncovice_phase2_run1_model-to-del_20260720_124135",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "Changu",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "changu_phase2_run1_model-to-del_20260720_132733",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "success",
-        "score":  null,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T13:42:57.480874Z",
-        "timestamp":  "2026-07-20T13:42:57.480874Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
+    "completed_at": "2026-07-20T12:51:21.288662Z",
+    "timestamp": "2026-07-20T12:51:21.288662Z"
+  },
+  {
+    "project_name": "Changu",
+    "phase": 2,
+    "run": 1,
+    "run_id": "changu_phase2_run1_model-to-del_20260720_132733",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
     },
-    {
-        "project_name":  "DJI_202402171501_006_KTM20-oblique",
-        "phase":  2,
-        "run":  1,
-        "run_id":  "dji_202402171501_006_ktm20_oblique_phase2_run1_model-to-del_20260720_160321",
-        "run_name":  "Model Test - Phase 2 Run 1",
-        "status":  "hard_cap_reached",
-        "score":  -1.0,
-        "test_model_id":  "model_compact-ridge_20260720_094510_model-to-delete",
-        "group_multipliers":  {
-                                  "geometry_lr":  {
-                                                      "multiplier":  1.0,
-                                                      "log_action":  0.0,
-                                                      "bounds":  [
-                                                                     0.5,
-                                                                     2.0
-                                                                 ]
-                                                  },
-                                  "appearance_lr":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.5,
-                                                                       2.0
-                                                                   ]
-                                                    },
-                                  "densification":  {
-                                                        "multiplier":  1.0,
-                                                        "log_action":  0.0,
-                                                        "bounds":  [
-                                                                       0.7,
-                                                                       1.42
-                                                                   ]
-                                                    }
-                              },
-        "completed_at":  "2026-07-20T16:25:17.910892Z",
-        "timestamp":  "2026-07-20T16:25:17.910892Z",
-        "test_model_name":  "A3_Ridge_additional_run_with_same_multipliers"
-    }
+    "completed_at": "2026-07-20T13:42:57.480874Z",
+    "timestamp": "2026-07-20T13:42:57.480874Z"
+  },
+  {
+    "project_name": "DJI_202402171501_006_KTM20-oblique",
+    "phase": 2,
+    "run": 1,
+    "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_model-to-del_20260720_160321",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "hard_cap_reached",
+    "score": -1.0,
+    "test_model_id": "model_compact-ridge_20260720_094510_model-to-delete",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-20T16:25:17.910892Z",
+    "timestamp": "2026-07-20T16:25:17.910892Z"
+  }
 ]

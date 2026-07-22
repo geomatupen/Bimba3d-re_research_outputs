@@ -5,5 +5,7 @@
   "training_samples": 653,
   "model_evaluation_step": 5000,
   "lambda_selected": 0.1,
-  "candidate_points": 30
+  "candidate_points": 30,
+  "regularize_intercept": false,
+  "regularization": "identity_except_intercept"
 }
