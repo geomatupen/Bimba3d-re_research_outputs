@@ -1,0 +1,41 @@
+{
+  "note": "These are three paired 5000-step validation renders selected from the available render sequence. They are not ranked by per-render PSNR/SSIM/LPIPS because per-render metrics are not stored; the model/project ranking comes from aggregate run metrics.",
+  "project": "4-Thomas-More-Church",
+  "model_name": "B1_Final_MLP_used_in_report_descriptor_standardized",
+  "baseline_run_id": "4_thomas_more_church_phase1_run1_20260710_184519",
+  "model_run_id": "4_thomas_more_church_phase2_run1_standardized_20260720_211500",
+  "baseline_run_folder": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260710_184519",
+  "model_run_folder": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_standardized_20260720_211500",
+  "baseline_render_count": 20,
+  "model_render_count": 20,
+  "copied_stats_files": [
+    "baseline_stats_val_step4999.json",
+    "model_stats_val_step4999.json"
+  ],
+  "pairs": [
+    {
+      "pair": 1,
+      "render_name": "val_step4999_0000.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260710_184519\\outputs\\engines\\gsplat\\renders\\val_step4999_0000.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_standardized_20260720_211500\\outputs\\engines\\gsplat\\renders\\val_step4999_0000.png",
+      "baseline_run_id": "4_thomas_more_church_phase1_run1_20260710_184519",
+      "model_run_id": "4_thomas_more_church_phase2_run1_standardized_20260720_211500"
+    },
+    {
+      "pair": 2,
+      "render_name": "val_step4999_0010.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260710_184519\\outputs\\engines\\gsplat\\renders\\val_step4999_0010.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_standardized_20260720_211500\\outputs\\engines\\gsplat\\renders\\val_step4999_0010.png",
+      "baseline_run_id": "4_thomas_more_church_phase1_run1_20260710_184519",
+      "model_run_id": "4_thomas_more_church_phase2_run1_standardized_20260720_211500"
+    },
+    {
+      "pair": 3,
+      "render_name": "val_step4999_0019.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260710_184519\\outputs\\engines\\gsplat\\renders\\val_step4999_0019.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_standardized_20260720_211500\\outputs\\engines\\gsplat\\renders\\val_step4999_0019.png",
+      "baseline_run_id": "4_thomas_more_church_phase1_run1_20260710_184519",
+      "model_run_id": "4_thomas_more_church_phase2_run1_standardized_20260720_211500"
+    }
+  ]
+}

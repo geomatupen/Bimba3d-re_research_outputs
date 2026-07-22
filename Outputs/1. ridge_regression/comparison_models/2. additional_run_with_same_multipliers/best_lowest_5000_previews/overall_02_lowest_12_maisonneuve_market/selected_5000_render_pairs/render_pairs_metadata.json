@@ -1,0 +1,41 @@
+{
+  "note": "These are three paired 5000-step validation renders selected from the available render sequence. They are not ranked by per-render PSNR/SSIM/LPIPS because per-render metrics are not stored; the model/project ranking comes from aggregate run metrics.",
+  "project": "12-Maisonneuve Market",
+  "model_name": "A3_Ridge_additional_run_with_same_multipliers",
+  "baseline_run_id": "12_maisonneuve_market_phase1_run1_20260710_183357",
+  "model_run_id": "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733",
+  "baseline_run_folder": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase1_run1_20260710_183357",
+  "model_run_folder": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733",
+  "baseline_render_count": 50,
+  "model_render_count": 50,
+  "copied_stats_files": [
+    "baseline_stats_val_step4999.json",
+    "model_stats_val_step4999.json"
+  ],
+  "pairs": [
+    {
+      "pair": 1,
+      "render_name": "val_step4999_0000.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase1_run1_20260710_183357\\outputs\\engines\\gsplat\\renders\\val_step4999_0000.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733\\outputs\\engines\\gsplat\\renders\\val_step4999_0000.png",
+      "baseline_run_id": "12_maisonneuve_market_phase1_run1_20260710_183357",
+      "model_run_id": "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733"
+    },
+    {
+      "pair": 2,
+      "render_name": "val_step4999_0025.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase1_run1_20260710_183357\\outputs\\engines\\gsplat\\renders\\val_step4999_0025.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733\\outputs\\engines\\gsplat\\renders\\val_step4999_0025.png",
+      "baseline_run_id": "12_maisonneuve_market_phase1_run1_20260710_183357",
+      "model_run_id": "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733"
+    },
+    {
+      "pair": 3,
+      "render_name": "val_step4999_0049.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase1_run1_20260710_183357\\outputs\\engines\\gsplat\\renders\\val_step4999_0049.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733\\outputs\\engines\\gsplat\\renders\\val_step4999_0049.png",
+      "baseline_run_id": "12_maisonneuve_market_phase1_run1_20260710_183357",
+      "model_run_id": "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "project": "12-Maisonneuve Market",
+  "baseline_run_id": "12_maisonneuve_market_phase1_run1_20260710_183357",
+  "model_run_id": "12_maisonneuve_market_phase2_run1_model-to-del_20260720_094733",
+  "model_name": "A3_Ridge_additional_run_with_same_multipliers",
+  "psnr_delta": 0.14977073669433594,
+  "ssim_delta": 0.004471480846405029,
+  "lpips_improvement": 0.009920120239257812,
+  "selected_5000_render_pairs_folder": "selected_5000_render_pairs",
+  "selected_5000_render_pair_count": 3,
+  "render_pair_note": "Three paired validation renders are copied for visual checking. They are not per-render metric-ranked because per-render metrics are not stored."
+}

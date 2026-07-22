@@ -1,0 +1,12 @@
+{
+  "project": "Telc_sv_Jakub_March_18",
+  "baseline_run_id": "telc_sv_jakub_march_18_phase1_run1_20260710_210844",
+  "model_run_id": "telc_sv_jakub_march_18_phase2_run1_july13_20260713_150850",
+  "model_name": "A2_Final_ridge_used_in_report_trained_with_hard_capped_data",
+  "psnr_delta": 0.37737464904785156,
+  "ssim_delta": 0.026820063591003418,
+  "lpips_improvement": 0.05874630808830261,
+  "selected_5000_render_pairs_folder": "selected_5000_render_pairs",
+  "selected_5000_render_pair_count": 3,
+  "render_pair_note": "Three paired validation renders are copied for visual checking. They are not per-render metric-ranked because per-render metrics are not stored."
+}

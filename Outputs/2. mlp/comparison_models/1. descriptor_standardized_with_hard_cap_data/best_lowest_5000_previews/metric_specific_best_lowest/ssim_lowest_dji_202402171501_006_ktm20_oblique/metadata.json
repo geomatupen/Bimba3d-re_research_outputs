@@ -1,0 +1,11 @@
+{
+  "project": "DJI_202402171501_006_KTM20-oblique",
+  "baseline_run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342",
+  "model_run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_data_20260721_000843",
+  "model_name": "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data",
+  "psnr_delta": -1.4207439422607422,
+  "ssim_delta": -0.07224643230438232,
+  "lpips_improvement": -0.044984251260757446,
+  "metric_pick": "ssim_lowest",
+  "selected_delta": -0.07224643230438232
+}

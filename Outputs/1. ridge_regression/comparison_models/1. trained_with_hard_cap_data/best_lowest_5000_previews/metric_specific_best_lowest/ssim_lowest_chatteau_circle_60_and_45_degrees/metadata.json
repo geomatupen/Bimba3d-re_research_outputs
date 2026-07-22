@@ -1,0 +1,11 @@
+{
+  "project": "Chatteau_circle_60_and_45_degrees",
+  "baseline_run_id": "chatteau_circle_60_and_45_degrees_phase1_run1_20260710_194316",
+  "model_run_id": "chatteau_circle_60_and_45_degrees_phase2_run1_july13_20260713_134212",
+  "model_name": "A2_Final_ridge_used_in_report_trained_with_hard_capped_data",
+  "psnr_delta": -0.3290977478027344,
+  "ssim_delta": -0.05633676052093506,
+  "lpips_improvement": -0.12724661827087402,
+  "metric_pick": "ssim_lowest",
+  "selected_delta": -0.05633676052093506
+}

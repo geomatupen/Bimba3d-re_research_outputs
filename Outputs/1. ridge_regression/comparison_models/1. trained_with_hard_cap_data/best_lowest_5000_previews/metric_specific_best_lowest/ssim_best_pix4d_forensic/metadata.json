@@ -1,0 +1,11 @@
+{
+  "project": "Pix4d_forensic",
+  "baseline_run_id": "pix4d_forensic_phase1_run1_20260710_202542",
+  "model_run_id": "pix4d_forensic_phase2_run1_july13_20260713_144737",
+  "model_name": "A2_Final_ridge_used_in_report_trained_with_hard_capped_data",
+  "psnr_delta": 0.9011898040771484,
+  "ssim_delta": 0.1048135757446289,
+  "lpips_improvement": 0.15647533535957336,
+  "metric_pick": "ssim_best",
+  "selected_delta": 0.1048135757446289
+}

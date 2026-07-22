@@ -1,0 +1,41 @@
+{
+  "note": "These are three paired 5000-step validation renders selected from the available render sequence. They are not ranked by per-render PSNR/SSIM/LPIPS because per-render metrics are not stored; the model/project ranking comes from aggregate run metrics.",
+  "project": "DJI_202402171501_006_KTM20-oblique",
+  "model_name": "A2_Final_ridge_used_in_report_trained_with_hard_capped_data",
+  "baseline_run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342",
+  "model_run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027",
+  "baseline_run_folder": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342",
+  "model_run_folder": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027",
+  "baseline_render_count": 60,
+  "model_render_count": 60,
+  "copied_stats_files": [
+    "baseline_stats_val_step4999.json",
+    "model_stats_val_step4999.json"
+  ],
+  "pairs": [
+    {
+      "pair": 1,
+      "render_name": "val_step4999_0000.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342\\outputs\\engines\\gsplat\\renders\\val_step4999_0000.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027\\outputs\\engines\\gsplat\\renders\\val_step4999_0000.png",
+      "baseline_run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342",
+      "model_run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027"
+    },
+    {
+      "pair": 2,
+      "render_name": "val_step4999_0030.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342\\outputs\\engines\\gsplat\\renders\\val_step4999_0030.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027\\outputs\\engines\\gsplat\\renders\\val_step4999_0030.png",
+      "baseline_run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342",
+      "model_run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027"
+    },
+    {
+      "pair": 3,
+      "render_name": "val_step4999_0059.png",
+      "baseline_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342\\outputs\\engines\\gsplat\\renders\\val_step4999_0059.png",
+      "model_render_source": "E:\\Thesis\\PipelineTests\\Final_test_June_27\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027\\outputs\\engines\\gsplat\\renders\\val_step4999_0059.png",
+      "baseline_run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260710_195342",
+      "model_run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_july13_20260713_140027"
+    }
+  ]
+}

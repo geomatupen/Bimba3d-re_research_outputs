@@ -1,0 +1,12 @@
+{
+  "project": "Pix4d_forensic",
+  "baseline_run_id": "pix4d_forensic_phase1_run1_20260710_202542",
+  "model_run_id": "pix4d_forensic_phase2_run1_model-to-del_20260720_113802",
+  "model_name": "A3_Ridge_additional_run_with_same_multipliers",
+  "psnr_delta": 1.1735820770263672,
+  "ssim_delta": 0.1491379737854004,
+  "lpips_improvement": 0.2337634265422821,
+  "selected_5000_render_pairs_folder": "selected_5000_render_pairs",
+  "selected_5000_render_pair_count": 3,
+  "render_pair_note": "Three paired validation renders are copied for visual checking. They are not per-render metric-ranked because per-render metrics are not stored."
+}

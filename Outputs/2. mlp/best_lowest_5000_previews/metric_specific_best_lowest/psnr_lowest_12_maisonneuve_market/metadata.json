@@ -1,0 +1,11 @@
+{
+  "project": "12-Maisonneuve Market",
+  "baseline_run_id": "12_maisonneuve_market_phase1_run1_20260710_183357",
+  "model_run_id": "12_maisonneuve_market_phase2_run1_standardized_20260720_204953",
+  "model_name": "B1_Final_MLP_used_in_report_descriptor_standardized",
+  "psnr_delta": -0.6785526275634766,
+  "ssim_delta": -0.004433751106262207,
+  "lpips_improvement": -0.004740536212921143,
+  "metric_pick": "psnr_lowest",
+  "selected_delta": -0.6785526275634766
+}

@@ -1,0 +1,12 @@
+{
+  "project": "4-Thomas-More-Church",
+  "baseline_run_id": "4_thomas_more_church_phase1_run1_20260710_184519",
+  "model_run_id": "4_thomas_more_church_phase2_run1_27-training-_20260712_151440",
+  "model_name": "A1_Final_ridge_used_in_report",
+  "psnr_delta": -0.16714096069335938,
+  "ssim_delta": 0.005073368549346924,
+  "lpips_improvement": 0.00757598876953125,
+  "selected_5000_render_pairs_folder": "selected_5000_render_pairs",
+  "selected_5000_render_pair_count": 3,
+  "render_pair_note": "Three paired validation renders are copied for visual checking. They are not per-render metric-ranked because per-render metrics are not stored."
+}
