@@ -5,7 +5,7 @@
   "pipeline_type": "test",
   "created_at": "2026-06-27T20:27:49.251194Z",
   "started_at": "2026-07-10T18:33:57.823138Z",
-  "completed_at": "2026-07-22T01:44:56.965176Z",
+  "completed_at": "2026-07-22T10:15:52.258766Z",
   "config": {
     "name": "Final_test_June_27",
     "workflow_stage": null,
@@ -326,12 +326,12 @@
   "current_project_index": 11,
   "current_test_model_id": null,
   "total_runs": 144,
-  "completed_runs": 139,
+  "completed_runs": 138,
   "failed_runs": 0,
   "mean_relative_score": -1.0,
-  "success_rate": 96.52777777777779,
+  "success_rate": 95.83333333333334,
   "best_relative_score": -1.0,
-  "last_run_ended_at": "2026-07-22T01:44:56.204627Z",
+  "last_run_ended_at": "2026-07-22T10:14:50.199728Z",
   "next_run_scheduled_at": null,
   "cooldown_active": false,
   "last_error": null,
@@ -1822,44 +1822,6 @@
       },
       "completed_at": "2026-07-12T20:40:32.226225Z",
       "timestamp": "2026-07-12T20:40:32.226225Z"
-    },
-    {
-      "project_name": "DJI_202402171501_006_KTM20-oblique",
-      "phase": 2,
-      "run": 1,
-      "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_27-training-_20260712_230432",
-      "run_name": "Model Test - Phase 2 Run 1",
-      "status": "success",
-      "score": null,
-      "test_model_id": "model_compact-ridge_20260712_131550_final_offline_data_june_27-training-data-compact-ridge",
-      "group_multipliers": {
-        "geometry_lr": {
-          "multiplier": 1.0,
-          "log_action": 0.0,
-          "bounds": [
-            0.5,
-            2.0
-          ]
-        },
-        "appearance_lr": {
-          "multiplier": 1.0,
-          "log_action": 0.0,
-          "bounds": [
-            0.5,
-            2.0
-          ]
-        },
-        "densification": {
-          "multiplier": 1.0,
-          "log_action": 0.0,
-          "bounds": [
-            0.7,
-            1.42
-          ]
-        }
-      },
-      "completed_at": "2026-07-12T23:48:53.613367Z",
-      "timestamp": "2026-07-12T23:48:53.613367Z"
     },
     {
       "project_name": "12-Maisonneuve Market",
@@ -5508,13 +5470,51 @@
       },
       "completed_at": "2026-07-22T01:40:53.961077Z",
       "timestamp": "2026-07-22T01:40:53.961077Z"
+    },
+    {
+      "project_name": "DJI_202402171501_006_KTM20-oblique",
+      "phase": 2,
+      "run": 1,
+      "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_27-training-_20260722_094710",
+      "run_name": "Model Test - Phase 2 Run 1",
+      "status": "hard_cap_reached",
+      "score": -1.0,
+      "test_model_id": "model_compact-ridge_20260712_131550_final_offline_data_june_27-training-data-compact-ridge",
+      "group_multipliers": {
+        "geometry_lr": {
+          "multiplier": 1.0,
+          "log_action": 0.0,
+          "bounds": [
+            0.5,
+            2.0
+          ]
+        },
+        "appearance_lr": {
+          "multiplier": 1.0,
+          "log_action": 0.0,
+          "bounds": [
+            0.5,
+            2.0
+          ]
+        },
+        "densification": {
+          "multiplier": 1.0,
+          "log_action": 0.0,
+          "bounds": [
+            0.7,
+            1.42
+          ]
+        }
+      },
+      "completed_at": "2026-07-22T10:10:49.245361Z",
+      "timestamp": "2026-07-22T10:10:49.245361Z"
     }
   ],
-  "updated_at": "2026-07-22T01:44:56.968482Z",
+  "updated_at": "2026-07-22T10:15:52.262273Z",
   "active_run": null,
   "cooldown_session_id": null,
-  "orchestrator_session_id": "879af985a4044623a97b827c54fbdad7",
-  "hard_cap_runs": 5,
+  "orchestrator_session_id": "c5f5387b7c9b4eebb32221af8e361b67",
+  "hard_cap_runs": 6,
   "pending_runs": 0,
   "prediction_previews": {
     "exif_compact_featurewise|model_mlp_20260710_205501_final_offline_data_june_27-training-data-mlp": {
