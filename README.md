@@ -4,8 +4,8 @@ This folder contains the final report output snapshot organized by model family.
 
 ## Folders
 
-- `1. ridge_regression/`: final Ridge Regression model artifacts, test results, comparison models, source-data references, previews, and archived analysis files.
-- `2. mlp/`: final descriptor-standardized MLP model artifacts, test results, comparison models, source-data references, previews, and archived analysis files.
+- `1. ridge_regression/`: final Ridge Regression model artifacts, test results, comparison models, source-data references, previews, and analysis/model files.
+- `2. mlp/`: final descriptor-standardized MLP model artifacts, test results, comparison models, source-data references, previews, and analysis/model files.
 
 ## Main CSV Files
 
