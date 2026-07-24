@@ -1,0 +1,458 @@
+[
+  {
+    "project_name": "12-Maisonneuve Market",
+    "phase": 2,
+    "run": 1,
+    "run_id": "12_maisonneuve_market_phase2_run1_regularizati_20260721_200725",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T20:14:44.902496Z",
+    "timestamp": "2026-07-21T20:14:44.902496Z"
+  },
+  {
+    "project_name": "4-Thomas-More-Church",
+    "phase": 2,
+    "run": 1,
+    "run_id": "4_thomas_more_church_phase2_run1_regularizati_20260721_202855",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T20:35:19.112774Z",
+    "timestamp": "2026-07-21T20:35:19.112774Z"
+  },
+  {
+    "project_name": "Brasov",
+    "phase": 2,
+    "run": 1,
+    "run_id": "brasov_phase2_run1_regularizati_20260721_210224",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T21:20:34.040014Z",
+    "timestamp": "2026-07-21T21:20:34.040014Z"
+  },
+  {
+    "project_name": "Changu",
+    "phase": 2,
+    "run": 1,
+    "run_id": "changu_phase2_run1_regularizati_20260721_214121",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T21:56:21.831617Z",
+    "timestamp": "2026-07-21T21:56:21.831617Z"
+  },
+  {
+    "project_name": "Chatteau_circle_60_and_45_degrees",
+    "phase": 2,
+    "run": 1,
+    "run_id": "chatteau_circle_60_and_45_degrees_phase2_run1_regularizati_20260721_221014",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T22:20:39.817427Z",
+    "timestamp": "2026-07-21T22:20:39.817427Z"
+  },
+  {
+    "project_name": "DJI_202402171501_006_KTM20-oblique",
+    "phase": 2,
+    "run": 1,
+    "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260721_224234",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "hard_cap_reached",
+    "score": -1.0,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T23:08:15.678110Z",
+    "timestamp": "2026-07-21T23:08:15.678110Z"
+  },
+  {
+    "project_name": "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
+    "phase": 2,
+    "run": 1,
+    "run_id": "kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_regularizati_20260721_232131",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T23:27:54.459874Z",
+    "timestamp": "2026-07-21T23:27:54.459874Z"
+  },
+  {
+    "project_name": "Pix4d_forensic",
+    "phase": 2,
+    "run": 1,
+    "run_id": "pix4d_forensic_phase2_run1_regularizati_20260721_234140",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-21T23:51:52.766297Z",
+    "timestamp": "2026-07-21T23:51:52.766297Z"
+  },
+  {
+    "project_name": "Telc_sv_Jakub_March_18",
+    "phase": 2,
+    "run": 1,
+    "run_id": "telc_sv_jakub_march_18_phase2_run1_regularizati_20260722_000540",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T00:16:35.850546Z",
+    "timestamp": "2026-07-22T00:16:35.850546Z"
+  },
+  {
+    "project_name": "Tiburon_Angel_Islands_State_Park_Split_group_3",
+    "phase": 2,
+    "run": 1,
+    "run_id": "tiburon_angel_islands_state_park_split_group_3_phase2_run1_regularizati_20260722_003241",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T00:45:25.825582Z",
+    "timestamp": "2026-07-22T00:45:25.825582Z"
+  },
+  {
+    "project_name": "morice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "morice_phase2_run1_regularizati_20260722_010138",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T01:15:58.228070Z",
+    "timestamp": "2026-07-22T01:15:58.228070Z"
+  },
+  {
+    "project_name": "uncovice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "uncovice_phase2_run1_regularizati_20260722_013140",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T01:40:53.961077Z",
+    "timestamp": "2026-07-22T01:40:53.961077Z"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "project_index": "6",
+  "project": "DJI_202402171501_006_KTM20-oblique",
+  "number_of_images": "478",
+  "baseline_run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609",
+  "ridge_run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914",
+  "ridge_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+  "status_baseline": "success",
+  "status_ridge": "success",
+  "baseline_psnr_7000": "23.47492027282715",
+  "ridge_psnr_7000": "22.662214279174805",
+  "psnr_delta_7000": "-0.8127059936523438",
+  "baseline_ssim_7000": "0.7852492332458496",
+  "ridge_ssim_7000": "0.7784926891326904",
+  "ssim_delta_7000": "-0.00675654411315918",
+  "baseline_lpips_7000": "0.2539542317390442",
+  "ridge_lpips_7000": "0.23299920558929443",
+  "lpips_improvement_7000": "0.020955026149749756",
+  "baseline_loss_7000": "0.06883841753005981",
+  "ridge_loss_7000": "0.07319235801696777",
+  "baseline_runtime_seconds": "1561.189670085907",
+  "ridge_runtime_seconds": "3513.4959836006165",
+  "runtime_delta_seconds": "1952.3063135147095",
+  "baseline_gaussians": "3558868",
+  "ridge_gaussians": "5263331",
+  "gaussian_delta": "1704463",
+  "geometry_multiplier": "2.568863543154017",
+  "appearance_multiplier": "1.181155952824815",
+  "densification_multiplier": "0.7000000027571127",
+  "baseline_gaussian_cap_reached": "False",
+  "ridge_gaussian_cap_reached": "False",
+  "baseline_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\analytics\\run_analytics_v1.json",
+  "ridge_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\analytics\\run_analytics_v1.json",
+  "selection_label": "SSIM delta lowest",
+  "overall_rank_score": 0.0909090909090909,
+  "baseline_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "model_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "copied_preview_step": 7000,
+  "copied_preview_files": [
+    {
+      "kind": "baseline",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "baseline_preview_007000.png"
+    },
+    {
+      "kind": "model",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "model_preview_007000.png"
+    }
+  ],
+  "selected_7000_render_pair_sources": [
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_01_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\outputs\\engines\\gsplat\\renders\\val_step6999_0030.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_02_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\outputs\\engines\\gsplat\\renders\\val_step6999_0059.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_03_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/model_render_01_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\outputs\\engines\\gsplat\\renders\\val_step6999_0030.png",
+      "copied_to": "selected_7000_render_pairs/model_render_02_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\outputs\\engines\\gsplat\\renders\\val_step6999_0059.png",
+      "copied_to": "selected_7000_render_pairs/model_render_03_step6999.png"
+    }
+  ]
+}

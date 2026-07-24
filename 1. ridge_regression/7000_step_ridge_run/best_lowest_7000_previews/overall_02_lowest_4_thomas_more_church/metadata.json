@@ -1,0 +1,83 @@
+{
+  "project_index": "2",
+  "project": "4-Thomas-More-Church",
+  "number_of_images": "158",
+  "baseline_run_id": "4_thomas_more_church_phase1_run1_20260722_211801",
+  "ridge_run_id": "4_thomas_more_church_phase2_run1_regularizati_20260722_230009",
+  "ridge_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+  "status_baseline": "success",
+  "status_ridge": "success",
+  "baseline_psnr_7000": "22.202800750732422",
+  "ridge_psnr_7000": "22.190990447998047",
+  "psnr_delta_7000": "-0.011810302734375",
+  "baseline_ssim_7000": "0.7963706851005554",
+  "ridge_ssim_7000": "0.8002563714981079",
+  "ssim_delta_7000": "0.0038856863975524902",
+  "baseline_lpips_7000": "0.268902987241745",
+  "ridge_lpips_7000": "0.2671973407268524",
+  "lpips_improvement_7000": "0.0017056465148925781",
+  "baseline_loss_7000": "0.05991760641336441",
+  "ridge_loss_7000": "0.06411218643188477",
+  "baseline_runtime_seconds": "600.376195192337",
+  "ridge_runtime_seconds": "582.9140858650208",
+  "runtime_delta_seconds": "-17.462109327316284",
+  "baseline_gaussians": "745307",
+  "ridge_gaussians": "560586",
+  "gaussian_delta": "-184721",
+  "geometry_multiplier": "1.4747448768733287",
+  "appearance_multiplier": "1.181155952824815",
+  "densification_multiplier": "1.4299999938913033",
+  "baseline_gaussian_cap_reached": "False",
+  "ridge_gaussian_cap_reached": "False",
+  "baseline_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\analytics\\run_analytics_v1.json",
+  "ridge_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\analytics\\run_analytics_v1.json",
+  "selection_label": "overall lowest",
+  "overall_rank_score": 0.1818181818181818,
+  "baseline_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "model_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "copied_preview_step": 7000,
+  "copied_preview_files": [
+    {
+      "kind": "baseline",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "baseline_preview_007000.png"
+    },
+    {
+      "kind": "model",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "model_preview_007000.png"
+    }
+  ],
+  "selected_7000_render_pair_sources": [
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_01_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\outputs\\engines\\gsplat\\renders\\val_step6999_0010.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_02_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\outputs\\engines\\gsplat\\renders\\val_step6999_0019.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_03_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/model_render_01_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\outputs\\engines\\gsplat\\renders\\val_step6999_0010.png",
+      "copied_to": "selected_7000_render_pairs/model_render_02_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\outputs\\engines\\gsplat\\renders\\val_step6999_0019.png",
+      "copied_to": "selected_7000_render_pairs/model_render_03_step6999.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "folder": "2. mlp",
+  "main_model_id": "model_compact-mlp_20260720_203745_final_mlp_descriptor_standardized",
+  "main_model_name": "B1_Final_MLP_used_in_report_descriptor_standardized",
+  "rows": 12,
+  "hard_cap_rows": [
+    {
+      "project_index": 3,
+      "project": "Brasov",
+      "run_id": "brasov_phase2_run1_standardized_20260720_214225",
+      "gaussian_cap_count": 6014753
+    },
+    {
+      "project_index": 6,
+      "project": "DJI_202402171501_006_KTM20-oblique",
+      "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_standardized_20260720_234251",
+      "gaussian_cap_count": 6018142
+    }
+  ],
+  "comparisons": [
+    "B2_Final_MLP_used_in_report_descriptor_standardized_with_hard_capped_data"
+  ]
+}

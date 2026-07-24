@@ -1,0 +1,18 @@
+{
+  "folder": "1. ridge_regression",
+  "main_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+  "main_model_name": "A1_Final_ridge_used_in_report",
+  "rows": 12,
+  "hard_cap_rows": [
+    {
+      "project_index": 6,
+      "project": "DJI_202402171501_006_KTM20-oblique",
+      "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260721_224234",
+      "gaussian_cap_count": 6227049
+    }
+  ],
+  "comparisons": [
+    "A2_Final_ridge_used_in_report_trained_with_hard_capped_data",
+    "A3_Ridge_additional_run_with_same_multipliers"
+  ]
+}

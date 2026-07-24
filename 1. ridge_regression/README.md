@@ -11,6 +11,7 @@ Contents:
 - `project_index_table.csv`: stable project index used by report charts and CSV rows.
 - `test_pipeline_runs.json`: the 12 matching test-pipeline run records used for this model.
 - `comparison_models/`: rebuilt comparison outputs from actual pipeline runs. Included comparisons: A2_Final_ridge_used_in_report_trained_with_hard_capped_data, A3_Ridge_additional_run_with_same_multipliers.
+- `7000_step_ridge_run/`: separate 7000-step baseline-vs-Ridge export from `pipeline_a745b178abfd`, including paired checkpoint metrics at 1000, 2000, ..., 7000 steps.
 - `source_data/`: copied source pipeline/model/training reference files. The test pipeline snapshot may contain historical runs; the final report rows are the 12 rows in the final CSV.
 - `best_lowest_5000_previews/`: copied preview images where available.
 

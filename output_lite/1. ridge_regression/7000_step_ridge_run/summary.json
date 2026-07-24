@@ -1,0 +1,25 @@
+{
+  "generated_at_utc": "2026-07-24T04:08:54Z",
+  "source_pipeline_id": "pipeline_a745b178abfd",
+  "source_pipeline_name": "Test_7000_Steps",
+  "source_pipeline_status": "completed",
+  "source_pipeline_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\pipeline_state.json",
+  "model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+  "project_count": 12,
+  "run_count": 24,
+  "checkpoint_rows": 84,
+  "checkpoint_steps": [
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000
+  ],
+  "mean_psnr_delta_7000": 0.089173158009847,
+  "mean_ssim_delta_7000": 0.03394013146559397,
+  "mean_lpips_improvement_7000": 0.07316828519105911,
+  "mean_runtime_delta_seconds": 384.34248886505765,
+  "mean_gaussian_delta": 985730.5833333334
+}

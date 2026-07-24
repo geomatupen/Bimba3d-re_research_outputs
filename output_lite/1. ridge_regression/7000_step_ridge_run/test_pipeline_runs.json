@@ -1,0 +1,638 @@
+[
+  {
+    "project_name": "12-Maisonneuve Market",
+    "phase": 1,
+    "run": 1,
+    "run_id": "12_maisonneuve_market_phase1_run1_20260722_210001",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-22T21:12:00.591369Z",
+    "timestamp": "2026-07-22T21:12:00.591369Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase1_run1_20260722_210001\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "12-Maisonneuve Market",
+    "phase": 2,
+    "run": 1,
+    "run_id": "12_maisonneuve_market_phase2_run1_regularizati_20260722_224359",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T22:54:09.342773Z",
+    "timestamp": "2026-07-22T22:54:09.342773Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\12-Maisonneuve_Market\\runs\\12_maisonneuve_market_phase2_run1_regularizati_20260722_224359\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "4-Thomas-More-Church",
+    "phase": 1,
+    "run": 1,
+    "run_id": "4_thomas_more_church_phase1_run1_20260722_211801",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-22T21:28:35.339312Z",
+    "timestamp": "2026-07-22T21:28:35.339312Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase1_run1_20260722_211801\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "4-Thomas-More-Church",
+    "phase": 2,
+    "run": 1,
+    "run_id": "4_thomas_more_church_phase2_run1_regularizati_20260722_230009",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T23:10:02.263554Z",
+    "timestamp": "2026-07-22T23:10:02.263554Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\4-Thomas-More-Church\\runs\\4_thomas_more_church_phase2_run1_regularizati_20260722_230009\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Brasov",
+    "phase": 1,
+    "run": 1,
+    "run_id": "brasov_phase1_run1_20260722_213525",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-22T22:08:29.042139Z",
+    "timestamp": "2026-07-22T22:08:29.042139Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Brasov\\runs\\brasov_phase1_run1_20260722_213525\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Brasov",
+    "phase": 2,
+    "run": 1,
+    "run_id": "brasov_phase2_run1_regularizati_20260722_231603",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-22T23:43:44.746272Z",
+    "timestamp": "2026-07-22T23:43:44.746272Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Brasov\\runs\\brasov_phase2_run1_regularizati_20260722_231603\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Changu",
+    "phase": 1,
+    "run": 1,
+    "run_id": "changu_phase1_run1_20260723_203559",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T20:59:27.120771Z",
+    "timestamp": "2026-07-23T20:59:27.120771Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Changu\\runs\\changu_phase1_run1_20260723_203559\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Changu",
+    "phase": 2,
+    "run": 1,
+    "run_id": "changu_phase2_run1_regularizati_20260723_232135",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-23T23:43:13.291894Z",
+    "timestamp": "2026-07-23T23:43:13.291894Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Changu\\runs\\changu_phase2_run1_regularizati_20260723_232135\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Chatteau_circle_60_and_45_degrees",
+    "phase": 1,
+    "run": 1,
+    "run_id": "chatteau_circle_60_and_45_degrees_phase1_run1_20260722_221444",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-22T22:23:34.431857Z",
+    "timestamp": "2026-07-22T22:23:34.431857Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Chatteau_circle_60_and_45_degrees\\runs\\chatteau_circle_60_and_45_degrees_phase1_run1_20260722_221444\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Chatteau_circle_60_and_45_degrees",
+    "phase": 2,
+    "run": 1,
+    "run_id": "chatteau_circle_60_and_45_degrees_phase2_run1_regularizati_20260722_234945",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-23T00:09:01.998321Z",
+    "timestamp": "2026-07-23T00:09:01.998321Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Chatteau_circle_60_and_45_degrees\\runs\\chatteau_circle_60_and_45_degrees_phase2_run1_regularizati_20260722_234945\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "DJI_202402171501_006_KTM20-oblique",
+    "phase": 1,
+    "run": 1,
+    "run_id": "dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T21:35:00.072454Z",
+    "timestamp": "2026-07-23T21:35:00.072454Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase1_run1_20260723_210609\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "DJI_202402171501_006_KTM20-oblique",
+    "phase": 2,
+    "run": 1,
+    "run_id": "dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-24T00:48:00.168016Z",
+    "timestamp": "2026-07-24T00:48:00.168016Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\DJI_202402171501_006_KTM20-oblique\\runs\\dji_202402171501_006_ktm20_oblique_phase2_run1_regularizati_20260723_234914\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
+    "phase": 1,
+    "run": 1,
+    "run_id": "kninice_church_of_the_exaltation_of_the_holy_cross_phase1_run1_20260723_214119",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T21:49:04.596987Z",
+    "timestamp": "2026-07-23T21:49:04.596987Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Kninice_Church_of_the_Exaltation_of_the_Holy_Cross\\runs\\kninice_church_of_the_exaltation_of_the_holy_cross_phase1_run1_20260723_214119\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Kninice_Church_of_the_Exaltation_of_the_Holy_Cross",
+    "phase": 2,
+    "run": 1,
+    "run_id": "kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_regularizati_20260724_005400",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-24T01:03:15.668663Z",
+    "timestamp": "2026-07-24T01:03:15.668663Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Kninice_Church_of_the_Exaltation_of_the_Holy_Cross\\runs\\kninice_church_of_the_exaltation_of_the_holy_cross_phase2_run1_regularizati_20260724_005400\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Pix4d_forensic",
+    "phase": 1,
+    "run": 1,
+    "run_id": "pix4d_forensic_phase1_run1_20260722_222942",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-22T22:37:58.510536Z",
+    "timestamp": "2026-07-22T22:37:58.510536Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Pix4d_forensic",
+    "phase": 2,
+    "run": 1,
+    "run_id": "pix4d_forensic_phase2_run1_regularizati_20260723_001502",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-23T00:31:23.686583Z",
+    "timestamp": "2026-07-23T00:31:23.686583Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Telc_sv_Jakub_March_18",
+    "phase": 1,
+    "run": 1,
+    "run_id": "telc_sv_jakub_march_18_phase1_run1_20260723_215528",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T22:06:21.752066Z",
+    "timestamp": "2026-07-23T22:06:21.752066Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Telc_sv_Jakub_March_18\\runs\\telc_sv_jakub_march_18_phase1_run1_20260723_215528\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Telc_sv_Jakub_March_18",
+    "phase": 2,
+    "run": 1,
+    "run_id": "telc_sv_jakub_march_18_phase2_run1_regularizati_20260724_010916",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-24T01:26:38.597957Z",
+    "timestamp": "2026-07-24T01:26:38.597957Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Telc_sv_Jakub_March_18\\runs\\telc_sv_jakub_march_18_phase2_run1_regularizati_20260724_010916\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Tiburon_Angel_Islands_State_Park_Split_group_3",
+    "phase": 1,
+    "run": 1,
+    "run_id": "tiburon_angel_islands_state_park_split_group_3_phase1_run1_20260723_221321",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T22:30:48.742442Z",
+    "timestamp": "2026-07-23T22:30:48.742442Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Tiburon_Angel_Islands_State_Park_Split_group_3\\runs\\tiburon_angel_islands_state_park_split_group_3_phase1_run1_20260723_221321\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "Tiburon_Angel_Islands_State_Park_Split_group_3",
+    "phase": 2,
+    "run": 1,
+    "run_id": "tiburon_angel_islands_state_park_split_group_3_phase2_run1_regularizati_20260724_013239",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-24T01:51:08.204404Z",
+    "timestamp": "2026-07-24T01:51:08.204404Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Tiburon_Angel_Islands_State_Park_Split_group_3\\runs\\tiburon_angel_islands_state_park_split_group_3_phase2_run1_regularizati_20260724_013239\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "morice",
+    "phase": 1,
+    "run": 1,
+    "run_id": "morice_phase1_run1_20260723_223709",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T22:51:16.758080Z",
+    "timestamp": "2026-07-23T22:51:16.758080Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "morice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "morice_phase2_run1_regularizati_20260724_015708",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-24T02:19:50.360639Z",
+    "timestamp": "2026-07-24T02:19:50.360639Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "uncovice",
+    "phase": 1,
+    "run": 1,
+    "run_id": "uncovice_phase1_run1_20260723_225944",
+    "run_name": "Baseline - Phase 1 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": null,
+    "group_multipliers": {},
+    "completed_at": "2026-07-23T23:15:32.564764Z",
+    "timestamp": "2026-07-23T23:15:32.564764Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\uncovice\\runs\\uncovice_phase1_run1_20260723_225944\\analytics\\run_analytics_v1.json"
+  },
+  {
+    "project_name": "uncovice",
+    "phase": 2,
+    "run": 1,
+    "run_id": "uncovice_phase2_run1_regularizati_20260724_022551",
+    "run_name": "Model Test - Phase 2 Run 1",
+    "status": "success",
+    "score": null,
+    "test_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+    "group_multipliers": {
+      "geometry_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "appearance_lr": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.5,
+          2.0
+        ]
+      },
+      "densification": {
+        "multiplier": 1.0,
+        "log_action": 0.0,
+        "bounds": [
+          0.7,
+          1.42
+        ]
+      }
+    },
+    "completed_at": "2026-07-24T02:40:05.023095Z",
+    "timestamp": "2026-07-24T02:40:05.023095Z",
+    "analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\uncovice\\runs\\uncovice_phase2_run1_regularizati_20260724_022551\\analytics\\run_analytics_v1.json"
+  }
+]
