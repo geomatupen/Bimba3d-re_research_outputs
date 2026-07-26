@@ -1,0 +1,194 @@
+﻿{
+    "id":  "pix4d-forensic_model-ridge-5k_checkpoint-005000",
+    "source":  "pix4d-forensic_model-ridge-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T09:01:39.0308820Z",
+    "files":  [
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod.rad",
+                      "bytes":  7512
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1405536
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1298256
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  1306832
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-11.radc",
+                      "bytes":  1292704
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-12.radc",
+                      "bytes":  1269848
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-13.radc",
+                      "bytes":  1195024
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-14.radc",
+                      "bytes":  1196800
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-15.radc",
+                      "bytes":  1253192
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-16.radc",
+                      "bytes":  1272656
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-17.radc",
+                      "bytes":  1199968
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-18.radc",
+                      "bytes":  1267960
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-19.radc",
+                      "bytes":  1283816
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1320000
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-20.radc",
+                      "bytes":  1245584
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-21.radc",
+                      "bytes":  1240312
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-22.radc",
+                      "bytes":  1226272
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-23.radc",
+                      "bytes":  1179904
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-24.radc",
+                      "bytes":  1171256
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-25.radc",
+                      "bytes":  1186256
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-26.radc",
+                      "bytes":  1219336
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-27.radc",
+                      "bytes":  1189272
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-28.radc",
+                      "bytes":  1158856
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-29.radc",
+                      "bytes":  1192920
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1350792
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-30.radc",
+                      "bytes":  1230176
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-31.radc",
+                      "bytes":  1211328
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-32.radc",
+                      "bytes":  1220176
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-33.radc",
+                      "bytes":  1231504
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-34.radc",
+                      "bytes":  1206824
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-35.radc",
+                      "bytes":  1195424
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-36.radc",
+                      "bytes":  1149232
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-37.radc",
+                      "bytes":  1230904
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-38.radc",
+                      "bytes":  1236152
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-39.radc",
+                      "bytes":  1220240
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1307112
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-40.radc",
+                      "bytes":  1232552
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-41.radc",
+                      "bytes":  1182576
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-42.radc",
+                      "bytes":  1176568
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-43.radc",
+                      "bytes":  1171872
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-44.radc",
+                      "bytes":  1063120
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1239272
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1198968
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1235616
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1271632
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-ridge-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1237160
+                  }
+              ]
+}

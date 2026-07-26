@@ -1,0 +1,34 @@
+﻿{
+    "id":  "maisonneuve-market_model-ridge-7k_checkpoint-007000",
+    "source":  "maisonneuve-market_model-ridge-7k_checkpoint-007000.splat",
+    "format":  "rad",
+    "entry":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T08:57:22.7636391Z",
+    "files":  [
+                  {
+                      "name":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod.rad",
+                      "bytes":  2088
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod-0.radc",
+                      "bytes":  1379568
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod-1.radc",
+                      "bytes":  1336720
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod-2.radc",
+                      "bytes":  1323464
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod-3.radc",
+                      "bytes":  1281992
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-ridge-7k_checkpoint-007000-lod-4.radc",
+                      "bytes":  966112
+                  }
+              ]
+}

@@ -1,0 +1,42 @@
+﻿{
+    "id":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000",
+    "source":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T08:56:12.3650887Z",
+    "files":  [
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod.rad",
+                      "bytes":  2376
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1368264
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1354184
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1330512
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1287632
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1275040
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1231920
+                  },
+                  {
+                      "name":  "maisonneuve-market_baseline-mlp-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  531424
+                  }
+              ]
+}

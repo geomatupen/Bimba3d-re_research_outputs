@@ -1,0 +1,78 @@
+﻿{
+    "id":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000",
+    "source":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000.splat",
+    "format":  "rad",
+    "entry":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T09:04:26.8121554Z",
+    "files":  [
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod.rad",
+                      "bytes":  3672
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-0.radc",
+                      "bytes":  1394032
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-1.radc",
+                      "bytes":  1302856
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-10.radc",
+                      "bytes":  1261696
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-11.radc",
+                      "bytes":  1299304
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-12.radc",
+                      "bytes":  1254904
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-13.radc",
+                      "bytes":  1227632
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-14.radc",
+                      "bytes":  1234528
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-15.radc",
+                      "bytes":  19704
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-2.radc",
+                      "bytes":  1349944
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-3.radc",
+                      "bytes":  1253088
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-4.radc",
+                      "bytes":  1337944
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-5.radc",
+                      "bytes":  1229792
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-6.radc",
+                      "bytes":  1293992
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-7.radc",
+                      "bytes":  1287344
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-8.radc",
+                      "bytes":  1236176
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-ridge-7k_checkpoint-007000-lod-9.radc",
+                      "bytes":  1241272
+                  }
+              ]
+}

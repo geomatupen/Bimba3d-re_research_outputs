@@ -1,0 +1,58 @@
+﻿{
+    "id":  "thomas-more-church_model-ridge-5k_checkpoint-005000",
+    "source":  "thomas-more-church_model-ridge-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T09:06:00.1926655Z",
+    "files":  [
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod.rad",
+                      "bytes":  2928
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1396328
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1277368
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  367088
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1378504
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1261584
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1308712
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1221000
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1297976
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1288664
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1266936
+                  },
+                  {
+                      "name":  "thomas-more-church_model-ridge-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1239248
+                  }
+              ]
+}

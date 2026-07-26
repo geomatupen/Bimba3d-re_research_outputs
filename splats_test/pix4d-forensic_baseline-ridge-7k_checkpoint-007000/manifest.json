@@ -1,0 +1,54 @@
+﻿{
+    "id":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000",
+    "source":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000.splat",
+    "format":  "rad",
+    "entry":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T08:58:30.5370366Z",
+    "files":  [
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod.rad",
+                      "bytes":  2776
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-0.radc",
+                      "bytes":  1387008
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-1.radc",
+                      "bytes":  1278560
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-2.radc",
+                      "bytes":  1306728
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-3.radc",
+                      "bytes":  1309584
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-4.radc",
+                      "bytes":  1282904
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-5.radc",
+                      "bytes":  1255808
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-6.radc",
+                      "bytes":  1276504
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-7.radc",
+                      "bytes":  1252496
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-8.radc",
+                      "bytes":  1233568
+                  },
+                  {
+                      "name":  "pix4d-forensic_baseline-ridge-7k_checkpoint-007000-lod-9.radc",
+                      "bytes":  465568
+                  }
+              ]
+}

@@ -1,0 +1,166 @@
+﻿{
+    "id":  "thomas-more-church_model-mlp-5k_checkpoint-005000",
+    "source":  "thomas-more-church_model-mlp-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T09:05:47.3832849Z",
+    "files":  [
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod.rad",
+                      "bytes":  6632
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1412656
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1312576
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  1176864
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-11.radc",
+                      "bytes":  1239680
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-12.radc",
+                      "bytes":  1203000
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-13.radc",
+                      "bytes":  1266384
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-14.radc",
+                      "bytes":  1368888
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-15.radc",
+                      "bytes":  1244152
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-16.radc",
+                      "bytes":  1168480
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-17.radc",
+                      "bytes":  1271952
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-18.radc",
+                      "bytes":  1229984
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-19.radc",
+                      "bytes":  1173256
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1302912
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-20.radc",
+                      "bytes":  1313680
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-21.radc",
+                      "bytes":  1296848
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-22.radc",
+                      "bytes":  1192720
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-23.radc",
+                      "bytes":  1205520
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-24.radc",
+                      "bytes":  1162072
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-25.radc",
+                      "bytes":  1213000
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-26.radc",
+                      "bytes":  1256560
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-27.radc",
+                      "bytes":  1256888
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-28.radc",
+                      "bytes":  1195016
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-29.radc",
+                      "bytes":  1180704
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1378000
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-30.radc",
+                      "bytes":  1198160
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-31.radc",
+                      "bytes":  1222112
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-32.radc",
+                      "bytes":  1201808
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-33.radc",
+                      "bytes":  1237944
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-34.radc",
+                      "bytes":  1204352
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-35.radc",
+                      "bytes":  1177368
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-36.radc",
+                      "bytes":  1199512
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-37.radc",
+                      "bytes":  1020440
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1405048
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1224368
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1213784
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1331416
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1250992
+                  },
+                  {
+                      "name":  "thomas-more-church_model-mlp-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1256168
+                  }
+              ]
+}

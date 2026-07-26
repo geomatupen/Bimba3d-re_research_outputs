@@ -1,0 +1,70 @@
+﻿{
+    "id":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000",
+    "source":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T09:03:44.0090475Z",
+    "files":  [
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod.rad",
+                      "bytes":  3360
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1392120
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1284872
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  1241416
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-11.radc",
+                      "bytes":  1215072
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-12.radc",
+                      "bytes":  1238016
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-13.radc",
+                      "bytes":  916048
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1398224
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1198720
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1365768
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1278312
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1334344
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1240408
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1276896
+                  },
+                  {
+                      "name":  "thomas-more-church_baseline-mlp-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1257264
+                  }
+              ]
+}

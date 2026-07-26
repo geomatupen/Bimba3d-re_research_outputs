@@ -1,0 +1,170 @@
+﻿{
+    "id":  "pix4d-forensic_model-mlp-5k_checkpoint-005000",
+    "source":  "pix4d-forensic_model-mlp-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T08:59:38.6387200Z",
+    "files":  [
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod.rad",
+                      "bytes":  6616
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1396104
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1299192
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  1311056
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-11.radc",
+                      "bytes":  1266776
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-12.radc",
+                      "bytes":  1294032
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-13.radc",
+                      "bytes":  1234384
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-14.radc",
+                      "bytes":  1216968
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-15.radc",
+                      "bytes":  1196696
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-16.radc",
+                      "bytes":  1221928
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-17.radc",
+                      "bytes":  1193536
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-18.radc",
+                      "bytes":  1220040
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-19.radc",
+                      "bytes":  1240248
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1323064
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-20.radc",
+                      "bytes":  1229752
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-21.radc",
+                      "bytes":  1277584
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-22.radc",
+                      "bytes":  1256640
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-23.radc",
+                      "bytes":  1245968
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-24.radc",
+                      "bytes":  1284656
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-25.radc",
+                      "bytes":  1236672
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-26.radc",
+                      "bytes":  1264136
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-27.radc",
+                      "bytes":  1172392
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-28.radc",
+                      "bytes":  1161488
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-29.radc",
+                      "bytes":  1218920
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1354768
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-30.radc",
+                      "bytes":  1229768
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-31.radc",
+                      "bytes":  1245848
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-32.radc",
+                      "bytes":  1225104
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-33.radc",
+                      "bytes":  1234808
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-34.radc",
+                      "bytes":  1237120
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-35.radc",
+                      "bytes":  1190768
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-36.radc",
+                      "bytes":  1188792
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-37.radc",
+                      "bytes":  1198656
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-38.radc",
+                      "bytes":  869048
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1324632
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1269240
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1220584
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1226736
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1301488
+                  },
+                  {
+                      "name":  "pix4d-forensic_model-mlp-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1323208
+                  }
+              ]
+}

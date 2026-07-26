@@ -1,0 +1,62 @@
+﻿{
+    "id":  "maisonneuve-market_model-mlp-5k_checkpoint-005000",
+    "source":  "maisonneuve-market_model-mlp-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-26T08:57:06.1571435Z",
+    "files":  [
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod.rad",
+                      "bytes":  3040
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1376096
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1363968
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  1221840
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-11.radc",
+                      "bytes":  435696
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1267168
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1331640
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1261568
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1296504
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1270888
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1259376
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1235880
+                  },
+                  {
+                      "name":  "maisonneuve-market_model-mlp-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1215216
+                  }
+              ]
+}
