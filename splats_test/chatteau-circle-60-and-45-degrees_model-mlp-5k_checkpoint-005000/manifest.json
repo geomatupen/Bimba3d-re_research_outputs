@@ -1,0 +1,226 @@
+﻿{
+    "id":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000",
+    "source":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000.splat",
+    "format":  "rad",
+    "entry":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-07-28T17:42:03.2064269Z",
+    "files":  [
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod.rad",
+                      "bytes":  9512
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-0.radc",
+                      "bytes":  1404960
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-1.radc",
+                      "bytes":  1372096
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-10.radc",
+                      "bytes":  1216456
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-11.radc",
+                      "bytes":  1189848
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-12.radc",
+                      "bytes":  1321416
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-13.radc",
+                      "bytes":  1302120
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-14.radc",
+                      "bytes":  1300520
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-15.radc",
+                      "bytes":  1279144
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-16.radc",
+                      "bytes":  1243208
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-17.radc",
+                      "bytes":  1237744
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-18.radc",
+                      "bytes":  1317952
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-19.radc",
+                      "bytes":  1227800
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-2.radc",
+                      "bytes":  1316208
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-20.radc",
+                      "bytes":  1249304
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-21.radc",
+                      "bytes":  1218144
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-22.radc",
+                      "bytes":  1286552
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-23.radc",
+                      "bytes":  1225944
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-24.radc",
+                      "bytes":  1291472
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-25.radc",
+                      "bytes":  1216960
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-26.radc",
+                      "bytes":  1221384
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-27.radc",
+                      "bytes":  1189144
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-28.radc",
+                      "bytes":  1233768
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-29.radc",
+                      "bytes":  1191880
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-3.radc",
+                      "bytes":  1354768
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-30.radc",
+                      "bytes":  1276656
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-31.radc",
+                      "bytes":  1253496
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-32.radc",
+                      "bytes":  1177632
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-33.radc",
+                      "bytes":  1173472
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-34.radc",
+                      "bytes":  1190368
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-35.radc",
+                      "bytes":  1214912
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-36.radc",
+                      "bytes":  1179264
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-37.radc",
+                      "bytes":  1166032
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-38.radc",
+                      "bytes":  1216664
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-39.radc",
+                      "bytes":  1276720
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-4.radc",
+                      "bytes":  1286592
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-40.radc",
+                      "bytes":  1195936
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-41.radc",
+                      "bytes":  1187392
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-42.radc",
+                      "bytes":  1199608
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-43.radc",
+                      "bytes":  1223072
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-44.radc",
+                      "bytes":  1184224
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-45.radc",
+                      "bytes":  1186920
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-46.radc",
+                      "bytes":  1209968
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-47.radc",
+                      "bytes":  1187528
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-48.radc",
+                      "bytes":  1206568
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-49.radc",
+                      "bytes":  1208024
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-5.radc",
+                      "bytes":  1255536
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-50.radc",
+                      "bytes":  1190936
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-51.radc",
+                      "bytes":  1151336
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-52.radc",
+                      "bytes":  961248
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-6.radc",
+                      "bytes":  1218312
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-7.radc",
+                      "bytes":  1335352
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-8.radc",
+                      "bytes":  1325008
+                  },
+                  {
+                      "name":  "chatteau-circle-60-and-45-degrees_model-mlp-5k_checkpoint-005000-lod-9.radc",
+                      "bytes":  1187328
+                  }
+              ]
+}
