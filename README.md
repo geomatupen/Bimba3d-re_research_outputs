@@ -4,6 +4,10 @@ This folder contains the digital research outputs for the thesis **AI-Guided Opt
 
 Main code repository: [geomatupen/bimba3d-re](https://github.com/geomatupen/bimba3d-re)
 
+Interactive results platform repository: [geomatupen/Thesis-Results-Platform](https://github.com/geomatupen/Thesis-Results-Platform)
+
+Interactive results platform website: [https://geomatupen.github.io/Thesis-Results-Platform/](https://geomatupen.github.io/Thesis-Results-Platform/)
+
 ## Data-Sharing Scope
 
 This submission does not include every intermediate file produced during processing. Only the relevant report-facing outputs, selected checkpoint results, metadata, traceability files, and selected visualization files are shared here. The complete raw image datasets and all intermediate reconstruction artifacts are not redistributed because some datasets are private or institutionally provided, and the full processing outputs would be very large. Public source datasets are referenced in the thesis report where applicable.
@@ -14,25 +18,25 @@ The table below gives the main structure of this data package. It lists each mai
 
 | SN | Folder | Subfolder/file | Description |
 | --- | --- | --- | --- |
-| 1 | `1. ridge_regression/` | Main folder | Final Ridge outputs; see Sections 4.3.2, 6.3, 6.4.1. |
-| 2 | `1. ridge_regression/` | `final_ridge...csv` | Main Ridge test table; see Appendices 3A, 3B. |
-| 3 | `1. ridge_regression/` | `model_artifact/` | Final Ridge scoring model; see Sections 4.3.2, 6.3. |
-| 4 | `1. ridge_regression/` | `analysis_model_files/` | Ridge coefficients and analysis; see Appendix 2. |
-| 5 | `1. ridge_regression/` | `comparison_models/` | Supporting Ridge comparisons; see Section 6.4.3. |
-| 6 | `1. ridge_regression/` | `7000_step_ridge_run/` | Ridge 7,000-step checkpoint comparison; see Section 6.4.4 and Appendix 3E. |
-| 7 | `1. ridge_regression/` | `best_lowest_5000_previews/` | Selected Ridge preview renders; see Section 6.4.1. |
-| 8 | `1. ridge_regression/` | `source_data/` | Ridge traceability exports for training data, descriptors, and pipelines; see Sections 4.2-4.4. |
-| 9 | `2. mlp/` | Main folder | Final MLP outputs; see Sections 4.3.3, 6.3, 6.4.2. |
-| 10 | `2. mlp/` | `final_mlp...csv` | Main MLP test table; see Appendices 3C, 3D. |
-| 11 | `2. mlp/` | `model_artifact/` | Final compact MLP scoring model; see Sections 4.3.3, 6.3. |
-| 12 | `2. mlp/` | `analysis_model_files/` | MLP model metadata and analysis files; see Section 6.3. |
-| 13 | `2. mlp/` | `comparison_models/` | Supporting MLP comparison; see Section 6.4.3. |
-| 14 | `2. mlp/` | `best_lowest_5000_previews/` | Selected MLP preview renders; see Section 6.4.2. |
-| 15 | `2. mlp/` | `source_data/` | MLP traceability exports for training data, descriptors, and pipelines; see Sections 4.2-4.4. |
-| 16 | `splats_test/` | Scene folders | Static RAD viewer data for selected cases; see Section 6.5.2. |
-| 17 | `splat_files/` | `.splat` files | Original selected checkpoint splats; see Section 6.5.2. |
-| 18 | `other_full_30k_splats/` | `.splat` files | Additional 30,000-iteration splat examples; see Section 6.5.2. |
-| 19 | `rag/` | Scene folders | Converted browser-ready RAD scenes; see Section 6.5.2. |
+| 1 | `1. ridge_regression/` | Main folder | Final Ridge Regression outputs: model, test results, comparisons, previews, and checkpoint data; see Sections 4.3.2, 6.3, 6.4.1. |
+| 1.1 |  | <span title="final_ridge_test_metrics_multipliers_descriptors.csv">`final_ridge...csv`</span> | Main Ridge test table with quality metrics, selected multipliers, Gaussian count, runtime, and descriptors; see Appendices 3A, 3B. |
+| 1.2 |  | `model_artifact/` | Stored final Ridge scoring model used to score candidate multiplier combinations; see Sections 4.3.2, 6.3. |
+| 1.3 |  | `analysis_model_files/` | Ridge coefficient and model-analysis files used to interpret model terms; see Appendix 2. |
+| 1.4 |  | `comparison_models/` | Supporting Ridge comparison runs, including hard-cap-data and repeated-multiplier checks; see Section 6.4.3. |
+| 1.5 |  | `7000_step_ridge_run/` | Baseline and Ridge model-selected comparison extended to 7,000 iterations; see Section 6.4.4 and Appendix 3E. |
+| 1.6 |  | `best_lowest_5000_previews/` | Selected best and lowest Ridge test-project preview results at 5,000 iterations; see Section 6.4.1. |
+| 1.7 |  | `source_data/` | Platform exports used for traceability: training data, test descriptors, and pipeline snapshots; see Sections 4.2-4.4. |
+| 2 | `2. mlp/` | Main folder | Final MLP outputs: model, test results, supporting comparison, previews, and traceability files; see Sections 4.3.3, 6.3, 6.4.2. |
+| 2.1 |  | <span title="final_mlp_test_metrics_multipliers_descriptors.csv">`final_mlp...csv`</span> | Main MLP test table with quality metrics, selected multipliers, Gaussian count, runtime, and descriptors; see Appendices 3C, 3D. |
+| 2.2 |  | `model_artifact/` | Stored final compact MLP scoring model used as the nonlinear comparison model; see Sections 4.3.3, 6.3. |
+| 2.3 |  | `analysis_model_files/` | MLP metadata and model-analysis files for the final compact model; see Section 6.3. |
+| 2.4 |  | `comparison_models/` | Supporting MLP comparison trained with hard-cap rows; see Section 6.4.3. |
+| 2.5 |  | `best_lowest_5000_previews/` | Selected best and lowest MLP test-project preview results at 5,000 iterations; see Section 6.4.2. |
+| 2.6 |  | `source_data/` | Platform exports used for traceability: training data, test descriptors, and pipeline snapshots; see Sections 4.2-4.4. |
+| 3 | `splats_test/` | Scene folders | Static RAD viewer data for selected thesis cases visualized in the interactive results platform; see Section 6.5.2. |
+| 4 | `splat_files/` | `.splat` files | Original selected checkpoint splats for the public visual comparison cases; see Section 6.5.2. |
+| 5 | `other_full_30k_splats/` | `.splat` files | Additional higher-training-step splat examples for supplementary visualization; see Section 6.5.2. |
+| 6 | `rag/` | Scene folders | Browser-ready RAD conversions used by the interactive results platform; see Section 6.5.2. |
 
 ## Notes
 
