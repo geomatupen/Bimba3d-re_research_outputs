@@ -8,7 +8,7 @@ This folder stores the 7000-step baseline-vs-Ridge test run outputs separately f
 ## Files
 
 - `eval_metrics_by_checkpoint.csv`: one row per project and evaluation checkpoint. It pairs baseline and Ridge runs at steps 1000, 2000, ..., 7000 and includes PSNR, SSIM, LPIPS, loss, elapsed time, selected multipliers, and hard-cap flags.
-- `attachment_3e_checkpoint_comparison.md` and `attachment_3e_checkpoint_comparison.csv`: report-ready Attachment 3E table comparing 5,000- and 7,000-step baseline/Ridge PSNR, SSIM, and LPIPS values.
+- `attachment_3e_checkpoint_comparison.md` and `attachment_3e_checkpoint_comparison.csv`: report-ready Appendix 3E table comparing 5,000- and 7,000-step baseline/Ridge PSNR, SSIM, and LPIPS values.
 - `final_7000_metrics_multipliers.csv`: one row per project using the 7000-step metrics, runtime, Gaussian count, and selected multipliers.
 - `project_index_table.csv`: project index, project name, and image count.
 - `test_pipeline_runs.json`: baseline and Ridge run records with analytics paths.

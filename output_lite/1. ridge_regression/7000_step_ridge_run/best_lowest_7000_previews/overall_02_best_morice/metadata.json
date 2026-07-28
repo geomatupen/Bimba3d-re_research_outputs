@@ -1,0 +1,83 @@
+{
+  "project_index": "11",
+  "project": "morice",
+  "number_of_images": "246",
+  "baseline_run_id": "morice_phase1_run1_20260723_223709",
+  "ridge_run_id": "morice_phase2_run1_regularizati_20260724_015708",
+  "ridge_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+  "status_baseline": "success",
+  "status_ridge": "success",
+  "baseline_psnr_7000": "28.991958618164062",
+  "ridge_psnr_7000": "30.311634063720703",
+  "psnr_delta_7000": "1.3196754455566406",
+  "baseline_ssim_7000": "0.8227006196975708",
+  "ridge_ssim_7000": "0.875803530216217",
+  "ssim_delta_7000": "0.05310291051864624",
+  "baseline_lpips_7000": "0.23369652032852173",
+  "ridge_lpips_7000": "0.13699622452259064",
+  "lpips_improvement_7000": "0.09670029580593109",
+  "baseline_loss_7000": "0.040176913142204285",
+  "ridge_loss_7000": "0.031489551067352295",
+  "baseline_runtime_seconds": "782.259284734726",
+  "ridge_runtime_seconds": "1350.514689207077",
+  "runtime_delta_seconds": "568.2554044723511",
+  "baseline_gaussians": "1070074",
+  "ridge_gaussians": "3189878",
+  "gaussian_delta": "2119804",
+  "geometry_multiplier": "1.6478653614491223",
+  "appearance_multiplier": "1.3198119970798372",
+  "densification_multiplier": "0.7000000027571127",
+  "baseline_gaussian_cap_reached": "False",
+  "ridge_gaussian_cap_reached": "False",
+  "baseline_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\analytics\\run_analytics_v1.json",
+  "ridge_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\analytics\\run_analytics_v1.json",
+  "selection_label": "overall best",
+  "overall_rank_score": 0.8787878787878789,
+  "baseline_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "model_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "copied_preview_step": 7000,
+  "copied_preview_files": [
+    {
+      "kind": "baseline",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "baseline_preview_007000.png"
+    },
+    {
+      "kind": "model",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "model_preview_007000.png"
+    }
+  ],
+  "selected_7000_render_pair_sources": [
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_01_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\outputs\\engines\\gsplat\\renders\\val_step6999_0015.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_02_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase1_run1_20260723_223709\\outputs\\engines\\gsplat\\renders\\val_step6999_0030.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_03_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/model_render_01_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\outputs\\engines\\gsplat\\renders\\val_step6999_0015.png",
+      "copied_to": "selected_7000_render_pairs/model_render_02_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\morice\\runs\\morice_phase2_run1_regularizati_20260724_015708\\outputs\\engines\\gsplat\\renders\\val_step6999_0030.png",
+      "copied_to": "selected_7000_render_pairs/model_render_03_step6999.png"
+    }
+  ]
+}

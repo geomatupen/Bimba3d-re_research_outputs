@@ -1,0 +1,83 @@
+{
+  "project_index": "8",
+  "project": "Pix4d_forensic",
+  "number_of_images": "69",
+  "baseline_run_id": "pix4d_forensic_phase1_run1_20260722_222942",
+  "ridge_run_id": "pix4d_forensic_phase2_run1_regularizati_20260723_001502",
+  "ridge_model_id": "model_compact-ridge_20260721_195042_ridge_without_intercept_regularization",
+  "status_baseline": "success",
+  "status_ridge": "success",
+  "baseline_psnr_7000": "24.41716194152832",
+  "ridge_psnr_7000": "24.993026733398438",
+  "psnr_delta_7000": "0.5758647918701172",
+  "baseline_ssim_7000": "0.5556128621101379",
+  "ridge_ssim_7000": "0.6907289624214172",
+  "ssim_delta_7000": "0.1351161003112793",
+  "baseline_lpips_7000": "0.596155047416687",
+  "ridge_lpips_7000": "0.36259153485298157",
+  "lpips_improvement_7000": "0.23356351256370544",
+  "baseline_loss_7000": "0.1319732517004013",
+  "ridge_loss_7000": "0.09923256188631058",
+  "baseline_runtime_seconds": "473.28008365631104",
+  "ridge_runtime_seconds": "953.5408940315247",
+  "runtime_delta_seconds": "480.2608103752136",
+  "baseline_gaussians": "465899",
+  "ridge_gaussians": "2250114",
+  "gaussian_delta": "1784215",
+  "geometry_multiplier": "1.6478653614491223",
+  "appearance_multiplier": "1.6478653614491223",
+  "densification_multiplier": "0.7000000027571127",
+  "baseline_gaussian_cap_reached": "False",
+  "ridge_gaussian_cap_reached": "False",
+  "baseline_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\analytics\\run_analytics_v1.json",
+  "ridge_analytics_path": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\analytics\\run_analytics_v1.json",
+  "selection_label": "overall best",
+  "overall_rank_score": 0.9696969696969697,
+  "baseline_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "model_preview_source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+  "copied_preview_step": 7000,
+  "copied_preview_files": [
+    {
+      "kind": "baseline",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "baseline_preview_007000.png"
+    },
+    {
+      "kind": "model",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\outputs\\engines\\gsplat\\previews\\preview_007000.png",
+      "copied_to": "model_preview_007000.png"
+    }
+  ],
+  "selected_7000_render_pair_sources": [
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_01_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\outputs\\engines\\gsplat\\renders\\val_step6999_0004.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_02_step6999.png"
+    },
+    {
+      "kind": "baseline_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase1_run1_20260722_222942\\outputs\\engines\\gsplat\\renders\\val_step6999_0008.png",
+      "copied_to": "selected_7000_render_pairs/baseline_render_03_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\outputs\\engines\\gsplat\\renders\\val_step6999_0000.png",
+      "copied_to": "selected_7000_render_pairs/model_render_01_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\outputs\\engines\\gsplat\\renders\\val_step6999_0004.png",
+      "copied_to": "selected_7000_render_pairs/model_render_02_step6999.png"
+    },
+    {
+      "kind": "model_render",
+      "source": "E:\\Thesis\\PipelineTests\\Test_7000_Steps\\Pix4d_forensic\\runs\\pix4d_forensic_phase2_run1_regularizati_20260723_001502\\outputs\\engines\\gsplat\\renders\\val_step6999_0008.png",
+      "copied_to": "selected_7000_render_pairs/model_render_03_step6999.png"
+    }
+  ]
+}
