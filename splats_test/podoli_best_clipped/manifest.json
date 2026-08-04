@@ -1,0 +1,266 @@
+﻿{
+    "id":  "podoli_best_clipped",
+    "source":  "podoli_best_clipped.splat",
+    "format":  "rad",
+    "entry":  "podoli_best_clipped-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-08-04T17:13:14.2469132Z",
+    "files":  [
+                  {
+                      "name":  "podoli_best_clipped-lod.rad",
+                      "bytes":  8200
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-0.radc",
+                      "bytes":  1395144
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-1.radc",
+                      "bytes":  1327104
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-10.radc",
+                      "bytes":  1272400
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-11.radc",
+                      "bytes":  1304240
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-12.radc",
+                      "bytes":  1287088
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-13.radc",
+                      "bytes":  1258640
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-14.radc",
+                      "bytes":  1232680
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-15.radc",
+                      "bytes":  1184856
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-16.radc",
+                      "bytes":  1279064
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-17.radc",
+                      "bytes":  1275168
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-18.radc",
+                      "bytes":  1276688
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-19.radc",
+                      "bytes":  1253840
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-2.radc",
+                      "bytes":  1318064
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-20.radc",
+                      "bytes":  1284128
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-21.radc",
+                      "bytes":  1269312
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-22.radc",
+                      "bytes":  1220944
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-23.radc",
+                      "bytes":  1255040
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-24.radc",
+                      "bytes":  1288112
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-25.radc",
+                      "bytes":  1269120
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-26.radc",
+                      "bytes":  1215856
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-27.radc",
+                      "bytes":  1206208
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-28.radc",
+                      "bytes":  1210128
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-29.radc",
+                      "bytes":  1293920
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-3.radc",
+                      "bytes":  1331952
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-30.radc",
+                      "bytes":  1266448
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-31.radc",
+                      "bytes":  1231552
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-32.radc",
+                      "bytes":  1260440
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-33.radc",
+                      "bytes":  1220088
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-34.radc",
+                      "bytes":  1276736
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-35.radc",
+                      "bytes":  1268392
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-36.radc",
+                      "bytes":  1246752
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-37.radc",
+                      "bytes":  1233496
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-38.radc",
+                      "bytes":  1194208
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-39.radc",
+                      "bytes":  1212776
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-4.radc",
+                      "bytes":  1347744
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-40.radc",
+                      "bytes":  1244448
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-41.radc",
+                      "bytes":  1265112
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-42.radc",
+                      "bytes":  1218680
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-43.radc",
+                      "bytes":  1252136
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-44.radc",
+                      "bytes":  1201768
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-45.radc",
+                      "bytes":  1223336
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-46.radc",
+                      "bytes":  1227776
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-47.radc",
+                      "bytes":  1225072
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-48.radc",
+                      "bytes":  1242744
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-49.radc",
+                      "bytes":  1253168
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-5.radc",
+                      "bytes":  1248696
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-50.radc",
+                      "bytes":  1254736
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-51.radc",
+                      "bytes":  1231136
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-52.radc",
+                      "bytes":  1218352
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-53.radc",
+                      "bytes":  1218968
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-54.radc",
+                      "bytes":  1224536
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-55.radc",
+                      "bytes":  1188552
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-56.radc",
+                      "bytes":  1208472
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-57.radc",
+                      "bytes":  1218944
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-58.radc",
+                      "bytes":  1203552
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-59.radc",
+                      "bytes":  1227560
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-6.radc",
+                      "bytes":  1264152
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-60.radc",
+                      "bytes":  1224856
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-61.radc",
+                      "bytes":  1202808
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-62.radc",
+                      "bytes":  178736
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-7.radc",
+                      "bytes":  1291800
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-8.radc",
+                      "bytes":  1285872
+                  },
+                  {
+                      "name":  "podoli_best_clipped-lod-9.radc",
+                      "bytes":  1273328
+                  }
+              ]
+}

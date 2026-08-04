@@ -1,0 +1,282 @@
+﻿{
+    "id":  "chatteau_best_clipped",
+    "source":  "chatteau_best_clipped.splat",
+    "format":  "rad",
+    "entry":  "chatteau_best_clipped-lod.rad",
+    "chunked":  true,
+    "generated_at":  "2026-08-04T17:08:44.6508496Z",
+    "files":  [
+                  {
+                      "name":  "chatteau_best_clipped-lod.rad",
+                      "bytes":  8760
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-0.radc",
+                      "bytes":  1388456
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-1.radc",
+                      "bytes":  1342896
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-10.radc",
+                      "bytes":  1287648
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-11.radc",
+                      "bytes":  1306864
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-12.radc",
+                      "bytes":  1274232
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-13.radc",
+                      "bytes":  1255640
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-14.radc",
+                      "bytes":  1249832
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-15.radc",
+                      "bytes":  1283552
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-16.radc",
+                      "bytes":  1300152
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-17.radc",
+                      "bytes":  1234448
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-18.radc",
+                      "bytes":  1322352
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-19.radc",
+                      "bytes":  1316320
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-2.radc",
+                      "bytes":  1352104
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-20.radc",
+                      "bytes":  1266216
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-21.radc",
+                      "bytes":  1213368
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-22.radc",
+                      "bytes":  1324352
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-23.radc",
+                      "bytes":  1284032
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-24.radc",
+                      "bytes":  1246896
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-25.radc",
+                      "bytes":  1263992
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-26.radc",
+                      "bytes":  1267544
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-27.radc",
+                      "bytes":  1247888
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-28.radc",
+                      "bytes":  1202080
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-29.radc",
+                      "bytes":  1215136
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-3.radc",
+                      "bytes":  1327136
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-30.radc",
+                      "bytes":  1212392
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-31.radc",
+                      "bytes":  1189344
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-32.radc",
+                      "bytes":  1314472
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-33.radc",
+                      "bytes":  1299664
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-34.radc",
+                      "bytes":  1226800
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-35.radc",
+                      "bytes":  1225376
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-36.radc",
+                      "bytes":  1196776
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-37.radc",
+                      "bytes":  1211920
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-38.radc",
+                      "bytes":  1181240
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-39.radc",
+                      "bytes":  1209424
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-4.radc",
+                      "bytes":  1313248
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-40.radc",
+                      "bytes":  1271000
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-41.radc",
+                      "bytes":  1205040
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-42.radc",
+                      "bytes":  1217120
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-43.radc",
+                      "bytes":  1250016
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-44.radc",
+                      "bytes":  1214808
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-45.radc",
+                      "bytes":  1219128
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-46.radc",
+                      "bytes":  1229008
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-47.radc",
+                      "bytes":  1230200
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-48.radc",
+                      "bytes":  1158304
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-49.radc",
+                      "bytes":  1196312
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-5.radc",
+                      "bytes":  1335344
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-50.radc",
+                      "bytes":  1250416
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-51.radc",
+                      "bytes":  1244296
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-52.radc",
+                      "bytes":  1241536
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-53.radc",
+                      "bytes":  1211048
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-54.radc",
+                      "bytes":  1199192
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-55.radc",
+                      "bytes":  1229448
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-56.radc",
+                      "bytes":  1265688
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-57.radc",
+                      "bytes":  1258632
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-58.radc",
+                      "bytes":  1247904
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-59.radc",
+                      "bytes":  1211768
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-6.radc",
+                      "bytes":  1324728
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-60.radc",
+                      "bytes":  1210304
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-61.radc",
+                      "bytes":  1181128
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-62.radc",
+                      "bytes":  1188104
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-63.radc",
+                      "bytes":  1201736
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-64.radc",
+                      "bytes":  1181208
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-65.radc",
+                      "bytes":  1195024
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-66.radc",
+                      "bytes":  912624
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-7.radc",
+                      "bytes":  1266472
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-8.radc",
+                      "bytes":  1314640
+                  },
+                  {
+                      "name":  "chatteau_best_clipped-lod-9.radc",
+                      "bytes":  1313040
+                  }
+              ]
+}
